@@ -86,7 +86,7 @@
     "vue-analytics": "^5.16.0",
     "vue-loader": "^13.7.3",
     "vue-meta": "^1.5.3",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-router": "^3.0.1",
     "vue-style-loader": "^3.0.3",
     "vue-template-compiler": "^2.5.2",
